@@ -18,7 +18,7 @@ A ferramenta exibe um banner colorido no terminal e utiliza códigos ANSI para d
 
 ## Instalação:
 ```
-git clone https://github.com/secbras/sendys
+git clone https://github.com/secbras/sendys.git
 cd sendys
 pip install requests
 ```
