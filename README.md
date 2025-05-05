@@ -42,4 +42,4 @@ Este projeto está licenciado sob a MIT License (https://opensource.org/licenses
 
 ---
 
-Desenvolvido pela SecBras Research
+**Desenvolvido pela SecBras Research**
